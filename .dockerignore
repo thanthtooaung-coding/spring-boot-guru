@@ -1,0 +1,11 @@
+.git
+.github
+.idea
+src
+pom.xml
+mvnw
+mvnw.cmd
+.mvn
+*.md
+target/*
+!target/docker-app.jar
